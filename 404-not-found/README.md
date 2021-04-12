@@ -28,7 +28,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
@@ -39,15 +39,14 @@
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 - Where can I see your demo?
-  https://sharp-mestorf-0529d7.netlify.app/
+ 
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [HTML](https://developer.mozilla.org/de/docs/Web/HTML)
-- [SCSS](https://sass-lang.com/guide)
-- [JS](https://developer.mozilla.org/de/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## Features
 
